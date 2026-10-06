@@ -10,3 +10,6 @@ config.toml
 CLAUDE.md
 .claude/
 .claude.local.md
+
+# voice model cache
+.cortexkit/
